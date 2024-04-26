@@ -11,6 +11,7 @@ body{
 .principal{
     background-image: url(imagens/Background.png);
     background-repeat: no-repeat;
+    background-size: contain;
 }
 .container{
     height: 100vh;
