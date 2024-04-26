@@ -11,3 +11,6 @@ body{
 .principal{
     background-image: url(imagens/Background.png);
 }
+.container{
+    height: 100vh;
+}
